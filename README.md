@@ -1,4 +1,4 @@
-# Spatial-Analysis-of-and-Distribution-of-Hotels-in-Jakarta
+# Spatial-Analysis-and-Distribution-of-Hotels-in-Jakarta
 
 ### Welcome to this repository of spatial analysis of hotels in Jakarta!
 **Note**: If you want to see the the full analysis and the process, please check the '*Spatial Analysis of and Distribution of Hotels in Jakarta*' ipynb file.\
